@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+h3{
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+}
+.btn1{
+  margin:50px
+}
